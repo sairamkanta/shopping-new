@@ -25,7 +25,7 @@ const Header = () => {
                 Signin / Signup
             </div>
             <div className="cart">
-                Cart one
+                Cart 
             </div>
         </div>
     </div>
