@@ -1,0 +1,21 @@
+
+
+*{
+  margin:0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  border: 5px solid black;
+}
+  .headersection {
+    display:flex;
+
+  }
+.center ul li{
+  list-style: none;
+  display:inline-flex;
+  margin: 0px 20px;
+}
