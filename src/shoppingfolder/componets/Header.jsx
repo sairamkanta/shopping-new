@@ -18,7 +18,7 @@ const Header = () => {
 
         </div>
         <div className="search">
-            <input type="text" placeholder='search'/>
+            <input type="text" placeholder='search....'/>
         </div>
         <div className="right">
             <div className="signin">
